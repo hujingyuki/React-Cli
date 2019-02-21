@@ -14,6 +14,7 @@
 
 - 已默认添加ant-design的UI框架
 - 已配置sass预处理
+- 使用@符号定位src资源目录
 - 集成redux及其使用demo
 - react-router + react-router-config 实现路由统一配置以及按需加载
 - 封装fetch请求
